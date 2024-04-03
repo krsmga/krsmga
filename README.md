@@ -1,9 +1,7 @@
 ### 👋👋 Hey everyone I'm Kleber Silva
 <br>
   
-- 🔭 I’m currently working on **[Playmatch](https://playmatch.gg/)** developing innovations for education.
-
-- 🌱 I’m currently learning **'ReactJS and React Native'** at Rocketseat
+- 🔭 I’m currently working on **[INSANE](https://www.insa.ne/)** developing an incredible MMO.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://klebersilva.com.br)**
 
@@ -31,8 +29,6 @@
 </p>
 
 ##
-  
-![Snake animation](https://github.com/krsmga/krsmga/blob/output/github-contribution-grid-snake.svg)
   
 ## ❤ Follow me  
 <p align="left">
